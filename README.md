@@ -41,4 +41,4 @@ ${execi 300 php /home/intrd/dev/php-bitcointicker-cmdline/index.php | fold -w85}
 ${execgraph -l php /home/intrd/dev/php-bitcointicker-cmdline/index.php graph}
 
 ```
-where 300 is update interval and w85 is your conky column size.
+Where 300 is update interval and w85 is your conky column size.
