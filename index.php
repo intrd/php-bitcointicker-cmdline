@@ -19,7 +19,6 @@
 $root=dirname(__FILE__)."/";
 $ext_path=$root."../";
 $tmp_path=$ext_path."TMP/";
-$data_path=$ext_path."DATA/";
 include_once("functions.php");
 $browser_agent="Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0";
 $cookie=$tmp_path."php-bitcointicker"; 

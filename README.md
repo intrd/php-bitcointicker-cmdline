@@ -28,6 +28,7 @@ apt-get install php5-curl php5-sqlite php5-cli php5-mcrypt
 git clone http://github.com/intrd/php-bitcointicker-cmdline/
 Stay outside and clone all dependencies below..
 git clone http://github.com/intrd/php-common/
+mkdir TMP
 ```
 
 # Conky usage sample
