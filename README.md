@@ -39,4 +39,6 @@ mkdir TMP
 ${color CC9900}BITCOIN TICKER ${hr 2}$color
 ${execi 300 php /home/intrd/dev/php-bitcointicker-cmdline/index.php | fold -w85}
 ${execgraph -l php /home/intrd/dev/php-bitcointicker-cmdline/index.php graph}
+
 ```
+where 300 is update interval and w85 is your conky column size.
