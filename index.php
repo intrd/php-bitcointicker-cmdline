@@ -1,10 +1,10 @@
 <?php
 /**
- * PHP+Conky - Bitcoin ticker (Conky graphic and Cmdline alerter)
+ * Conky script - PHP Bitcoin ticker (desktop graphic & price change alerter)
  * I've made this script:
- * - Show exchanges prices at Conky terminal embedd on my desktop(linux)
- * - Generate an Alert when price changes x USDs
- * - Draw a graphic on desktop to easily see if is a relevant change
+ *  - Show exchanges prices at Conky terminal embedd on your desktop(linux)
+ *  - Generate an Alert on relevant price changes
+ *  - Draw a graphic on desktop to easily see the price change
  * 
 * @package php-bitcointicker-cmdline
 * @version 1.0
